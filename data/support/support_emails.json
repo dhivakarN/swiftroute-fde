@@ -1,0 +1,242 @@
+[
+  {
+    "email_id": "EMAIL-001",
+    "date": "2026-10-22",
+    "customer": "South Market",
+    "subject": "Warehouse delay",
+    "route": "Kochi → Bangalore",
+    "body": "The delivery address was incorrect in the system."
+  },
+  {
+    "email_id": "EMAIL-002",
+    "date": "2026-10-26",
+    "customer": "Metro Foods",
+    "subject": "Missing shipment",
+    "route": "Mumbai → Hyderabad",
+    "body": "The shipment was delayed because of heavy rain."
+  },
+  {
+    "email_id": "EMAIL-003",
+    "date": "2026-10-17",
+    "customer": "South Market",
+    "subject": "Shipment delayed",
+    "route": "Mumbai → Chennai",
+    "body": "Traffic caused a major delay on this route."
+  },
+  {
+    "email_id": "EMAIL-004",
+    "date": "2026-10-05",
+    "customer": "QuickBuy",
+    "subject": "Warehouse delay",
+    "route": "Bangalore → Kozhikode",
+    "body": "We were expecting delivery yesterday but it still has not arrived."
+  },
+  {
+    "email_id": "EMAIL-005",
+    "date": "2026-10-28",
+    "customer": "City Electronics",
+    "subject": "Late delivery",
+    "route": "Kochi → Kozhikode",
+    "body": "The package arrived damaged."
+  },
+  {
+    "email_id": "EMAIL-006",
+    "date": "2026-10-21",
+    "customer": "City Electronics",
+    "subject": "Shipment delayed",
+    "route": "Kozhikode → Kochi",
+    "body": "We were expecting delivery yesterday but it still has not arrived."
+  },
+  {
+    "email_id": "EMAIL-007",
+    "date": "2026-10-08",
+    "customer": "South Market",
+    "subject": "Late delivery",
+    "route": "Bangalore → Hyderabad",
+    "body": "The driver could not reach the delivery address and the shipment was returned."
+  },
+  {
+    "email_id": "EMAIL-008",
+    "date": "2026-10-26",
+    "customer": "GreenBasket",
+    "subject": "Damaged package",
+    "route": "Chennai → Kozhikode",
+    "body": "The delivery address was incorrect in the system."
+  },
+  {
+    "email_id": "EMAIL-009",
+    "date": "2026-10-14",
+    "customer": "QuickBuy",
+    "subject": "Warehouse delay",
+    "route": "Hyderabad → Kochi",
+    "body": "The shipment arrived two days late and caused us to miss our customer's delivery window."
+  },
+  {
+    "email_id": "EMAIL-010",
+    "date": "2026-10-05",
+    "customer": "GreenBasket",
+    "subject": "Late delivery",
+    "route": "Bangalore → Kochi",
+    "body": "We were expecting delivery yesterday but it still has not arrived."
+  },
+  {
+    "email_id": "EMAIL-011",
+    "date": "2026-10-06",
+    "customer": "Metro Foods",
+    "subject": "Warehouse delay",
+    "route": "Mumbai → Hyderabad",
+    "body": "The shipment arrived two days late and caused us to miss our customer's delivery window."
+  },
+  {
+    "email_id": "EMAIL-012",
+    "date": "2026-10-28",
+    "customer": "QuickBuy",
+    "subject": "Late delivery",
+    "route": "Chennai → Bangalore",
+    "body": "Traffic caused a major delay on this route."
+  },
+  {
+    "email_id": "EMAIL-013",
+    "date": "2026-10-29",
+    "customer": "South Market",
+    "subject": "Delivery issue",
+    "route": "Kozhikode → Chennai",
+    "body": "Traffic caused a major delay on this route."
+  },
+  {
+    "email_id": "EMAIL-014",
+    "date": "2026-10-08",
+    "customer": "FreshMart",
+    "subject": "Late delivery",
+    "route": "Kochi → Bangalore",
+    "body": "The warehouse took too long to process the shipment."
+  },
+  {
+    "email_id": "EMAIL-015",
+    "date": "2026-10-22",
+    "customer": "Daily Needs",
+    "subject": "Missing shipment",
+    "route": "Chennai → Mumbai",
+    "body": "Our customer says the package arrived with damaged packaging."
+  },
+  {
+    "email_id": "EMAIL-016",
+    "date": "2026-10-08",
+    "customer": "Metro Foods",
+    "subject": "Missing shipment",
+    "route": "Kochi → Chennai",
+    "body": "Our package was delayed because the truck reached the warehouse late."
+  },
+  {
+    "email_id": "EMAIL-017",
+    "date": "2026-10-24",
+    "customer": "Prime Retail",
+    "subject": "Delivery issue",
+    "route": "Kozhikode → Mumbai",
+    "body": "The package arrived damaged."
+  },
+  {
+    "email_id": "EMAIL-018",
+    "date": "2026-10-04",
+    "customer": "City Electronics",
+    "subject": "Shipment delayed",
+    "route": "Bangalore → Kozhikode",
+    "body": "The package arrived damaged."
+  },
+  {
+    "email_id": "EMAIL-019",
+    "date": "2026-10-09",
+    "customer": "Metro Foods",
+    "subject": "Missing shipment",
+    "route": "Kochi → Hyderabad",
+    "body": "The shipment arrived two days late and caused us to miss our customer's delivery window."
+  },
+  {
+    "email_id": "EMAIL-020",
+    "date": "2026-10-23",
+    "customer": "QuickBuy",
+    "subject": "Late delivery",
+    "route": "Hyderabad → Kozhikode",
+    "body": "Traffic caused a major delay on this route."
+  },
+  {
+    "email_id": "EMAIL-021",
+    "date": "2026-10-22",
+    "customer": "Daily Needs",
+    "subject": "Shipment delayed",
+    "route": "Kochi → Hyderabad",
+    "body": "We were expecting delivery yesterday but it still has not arrived."
+  },
+  {
+    "email_id": "EMAIL-022",
+    "date": "2026-10-23",
+    "customer": "John Traders",
+    "subject": "Damaged package",
+    "route": "Kozhikode → Hyderabad",
+    "body": "We were expecting delivery yesterday but it still has not arrived."
+  },
+  {
+    "email_id": "EMAIL-023",
+    "date": "2026-10-02",
+    "customer": "Acme Ltd",
+    "subject": "Warehouse delay",
+    "route": "Mumbai → Hyderabad",
+    "body": "The shipment arrived two days late and caused us to miss our customer's delivery window."
+  },
+  {
+    "email_id": "EMAIL-024",
+    "date": "2026-10-13",
+    "customer": "GreenBasket",
+    "subject": "Damaged package",
+    "route": "Kozhikode → Mumbai",
+    "body": "Traffic caused a major delay on this route."
+  },
+  {
+    "email_id": "EMAIL-025",
+    "date": "2026-10-28",
+    "customer": "FreshMart",
+    "subject": "Delivery issue",
+    "route": "Hyderabad → Bangalore",
+    "body": "The shipment was delayed because of heavy rain."
+  },
+  {
+    "email_id": "EMAIL-026",
+    "date": "2026-10-10",
+    "customer": "Acme Ltd",
+    "subject": "Late delivery",
+    "route": "Kochi → Kozhikode",
+    "body": "The package arrived damaged."
+  },
+  {
+    "email_id": "EMAIL-027",
+    "date": "2026-10-30",
+    "customer": "Metro Foods",
+    "subject": "Delivery issue",
+    "route": "Bangalore → Kozhikode",
+    "body": "Traffic caused a major delay on this route."
+  },
+  {
+    "email_id": "EMAIL-028",
+    "date": "2026-10-28",
+    "customer": "City Electronics",
+    "subject": "Late delivery",
+    "route": "Chennai → Kochi",
+    "body": "The delivery address was incorrect in the system."
+  },
+  {
+    "email_id": "EMAIL-029",
+    "date": "2026-10-30",
+    "customer": "QuickBuy",
+    "subject": "Damaged package",
+    "route": "Mumbai → Kochi",
+    "body": "The shipment was delayed because of heavy rain."
+  },
+  {
+    "email_id": "EMAIL-030",
+    "date": "2026-10-17",
+    "customer": "FreshMart",
+    "subject": "Late delivery",
+    "route": "Bangalore → Kochi",
+    "body": "Traffic caused a major delay on this route."
+  }
+]

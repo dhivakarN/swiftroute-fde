@@ -1,0 +1,516 @@
+shipment_id,customer,origin,destination,shipment_date,delivery_date,status,cost
+SR1477,GreenBasket,CHENNAI,Hyderabad,2026-10-19,Oct 21 2026,Delivered,750
+SR1436,Daily Needs,CHENNAI, hyderabad ,27/10/2026,Oct 31 2026,Late,600
+SR1313,Daily Needs, mumbai ,Calicut,01/10/2026,2026-10-03,In Transit,1800
+SR1001,,Chennai,KOCHI,Oct 08 2026,Oct 11 2026,Delivered,600
+SR1291,Acme Ltd,BANGALORE, chennai ,2026-10-14,Oct 16 2026,In Transit,1800
+SR1157,Metro Foods,MUMBAI,BANGALORE,Oct 01 2026,Oct 05 2026,Late,750
+SR1189,South Market,HYDERABAD,Calicut,28/10/2026,2026-10-30,Delivered,1500
+SR1340,GreenBasket, kochi ,MUMBAI,26/10/2026,30/10/2026,Late,1800
+SR1463,Metro Foods, kochi ,Chennai,21/10/2026,Oct 24 2026,Cancelled,600
+SR1167,Prime Retail,BANGALORE,Kochi,2026-10-07,Oct 10 2026,In Transit,600
+SR1339,Prime Retail,KOCHI, kozhikode ,04/10/2026,Oct 07 2026,Delivered,950
+SR1119,QuickBuy,KOCHI,Mumbai,2026-10-01,2026-10-02,In Transit,950
+SR1449,Metro Foods, mumbai , hyderabad ,Oct 01 2026,2026-10-02,Delivered,750
+SR1388,South Market,Bengaluru,Madras,02/10/2026,03/10/2026,Delivered,750
+SR1454,Acme Ltd, chennai ,Mumbai,21/10/2026,23/10/2026,Delivered,950
+SR1333,John Traders,Chennai, kozhikode ,Oct 09 2026,Oct 12 2026,In Transit,1500
+SR1265,Acme Ltd, kozhikode ,KOCHI,2026-10-10,2026-10-12,Delivered,600
+SR1170,John Traders,MUMBAI,KOCHI,Oct 18 2026,20/10/2026,Delivered,1500
+SR1302,City Electronics,KOCHI,Bombay,30/10/2026,03/11/2026,Late,1500
+SR1105,FreshMart,Hyderabad,Madras,Oct 17 2026,Oct 19 2026,Delivered,1200
+SR1012,Daily Needs,Chennai,Bombay,11/10/2026,2026-10-12,Delivered,1200
+SR1077,Metro Foods,Cochin,Kozhikode,Oct 22 2026,Oct 24 2026,Delivered,950
+SR1387,Acme Ltd,Hyderabad, bangalore ,2026-10-29,31/10/2026,Delivered,850
+SR1016,GreenBasket, hyderabad ,Bengaluru,2026-10-24,27/10/2026,In Transit,1800
+SR1296,QuickBuy,KOCHI,Kozhikode,2026-10-04,,Cancelled,450
+SR1107,FreshMart,Kochi, hyderabad ,21/10/2026,,Delivered,450
+SR1091,Metro Foods,KOCHI,CHENNAI,Oct 02 2026,2026-10-04,Cancelled,1500
+SR1137,John Traders,Bangalore, mumbai ,2026-10-24,2026-10-26,In Transit,450
+SR1424,Daily Needs, kozhikode ,HYDERABAD,Oct 26 2026,29/10/2026,In Transit,450
+SR1408,Acme Ltd, hyderabad ,KOCHI,Oct 24 2026,2026-10-27,Delivered,450
+SR1039,Daily Needs,Hyderabad,KOZHIKODE,Oct 31 2026,02/11/2026,In Transit,1500
+SR1210,GreenBasket, bangalore , chennai ,19/10/2026,Oct 21 2026,Delivered,750
+SR1147,Metro Foods,MUMBAI,Hyderabad,2026-10-19,Oct 20 2026,Delivered,1800
+SR1402,Metro Foods,HYDERABAD,Calicut,Oct 15 2026,Oct 16 2026,Delivered,750
+SR1411,Daily Needs,Bengaluru, hyderabad ,14/10/2026,Oct 15 2026,Delivered,750
+SR1048,City Electronics,Kochi,Bangalore,Oct 03 2026,08/10/2026,Late,600
+SR1441,South Market,Chennai,Mumbai,2026-10-17,18/10/2026,Delivered,950
+SR1245,Metro Foods,Hyderabad,Madras,25/10/2026,2026-10-26,Cancelled,1500
+SR1019,John Traders,Kochi, hyderabad ,2026-10-16,18/10/2026,Delivered,450
+SR1282,,Calicut, hyderabad ,29/10/2026,2026-11-02,Late,1800
+SR1213,Prime Retail, kochi ,Hyderabad,Oct 11 2026,Oct 15 2026,Late,1800
+SR1481,John Traders,Hyderabad,CHENNAI,Oct 14 2026,Oct 15 2026,Cancelled,1800
+SR1378,Daily Needs,Calicut,KOCHI,2026-10-24,Oct 27 2026,Delivered,750
+SR1342,John Traders,Kochi,MUMBAI,14/10/2026,2026-10-16,Delivered,850
+SR1457,GreenBasket,HYDERABAD,Madras,23/10/2026,Oct 24 2026,Cancelled,750
+SR1261,City Electronics, chennai ,HYDERABAD,Oct 07 2026,10/10/2026,Cancelled,750
+SR1024,GreenBasket,Kozhikode, kochi ,Oct 06 2026,Oct 09 2026,Delivered,950
+SR1243,Daily Needs,BANGALORE, mumbai ,26/10/2026,Oct 28 2026,Delivered,1200
+SR1232,,Bombay,Hyderabad,2026-10-08,Oct 11 2026,Delivered,1800
+SR1277,FreshMart,Kochi,CHENNAI,2026-10-28,Nov 01 2026,Late,1800
+SR1278,John Traders,Bengaluru,Kozhikode,2026-10-11,14/10/2026,Delivered,1800
+SR1141,QuickBuy, kochi ,Kozhikode,2026-10-16,2026-10-18,Delivered,1800
+SR1202,FreshMart, hyderabad ,Chennai,26/10/2026,2026-10-27,In Transit,1200
+SR1063,FreshMart,Hyderabad,Chennai,2026-10-29,2026-10-31,Delivered,950
+SR1033,GreenBasket, kozhikode ,HYDERABAD,Oct 03 2026,2026-10-05,In Transit,1200
+SR1464,GreenBasket,BANGALORE,Mumbai,02/10/2026,Oct 05 2026,Cancelled,850
+SR1082,Metro Foods,MUMBAI, kozhikode ,2026-10-26,Oct 27 2026,Delivered,750
+SR1184,Prime Retail,Madras,Calicut,2026-10-19,22/10/2026,Delivered,1500
+SR1090,Daily Needs,Madras,Bangalore,16/10/2026,Oct 18 2026,Delivered,600
+SR1096,Acme Ltd,KOZHIKODE,Bombay,2026-10-10,Oct 13 2026,Delivered,850
+SR1430,South Market,KOZHIKODE,Bangalore,Oct 11 2026,13/10/2026,Delivered,950
+SR1204,South Market,Hyderabad, chennai ,22/10/2026,2026-10-23,Delivered,850
+SR1207,South Market,CHENNAI,Kozhikode,2026-10-10,11/10/2026,Delivered,950
+SR1163,Daily Needs,KOCHI, chennai ,Oct 15 2026,2026-10-17,Delivered,1800
+SR1123,John Traders,MUMBAI,Kochi,2026-10-23,Oct 24 2026,Delivered,750
+SR1329,Daily Needs, mumbai ,Kozhikode,Oct 27 2026,01/11/2026,Late,1500
+SR1103,South Market, kochi ,Bombay,13/10/2026,2026-10-18,Late,600
+SR1294,City Electronics,BANGALORE,MUMBAI,Oct 29 2026,2026-10-30,Cancelled,450
+SR1196,City Electronics,HYDERABAD, chennai ,2026-10-26,2026-10-29,Cancelled,600
+SR1495,John Traders,Madras,MUMBAI,17/10/2026,20/10/2026,Delivered,950
+SR1219,John Traders,Madras,Bombay,19/10/2026,22/10/2026,Delivered,750
+SR1138,Acme Ltd, kochi ,MUMBAI,Oct 10 2026,16/10/2026,Late,850
+SR1054,Daily Needs,Calicut, kochi ,2026-10-23,2026-10-25,Delivered,950
+SR1384,GreenBasket,HYDERABAD,BANGALORE,Oct 18 2026,21/10/2026,Late,1200
+SR1415,City Electronics,Cochin,Chennai,2026-10-20,,Late,850
+SR1136,Daily Needs, kozhikode ,Chennai,2026-10-09,Oct 12 2026,Delivered,950
+SR1383,South Market,Kozhikode,Bombay,Oct 02 2026,2026-10-05,Late,850
+SR1177,Metro Foods,KOCHI,Hyderabad,2026-10-15,Oct 17 2026,Delivered,750
+SR1405,Metro Foods, hyderabad ,Mumbai,Oct 20 2026,2026-10-21,Delivered,850
+SR1069,City Electronics,Cochin,Hyderabad,2026-10-08,Oct 09 2026,Delivered,1500
+SR1299,John Traders,Cochin,Bengaluru,27/10/2026,Nov 03 2026,Late,600
+SR1255,City Electronics, bangalore , chennai ,Oct 04 2026,Oct 05 2026,Delivered,1500
+SR1205,John Traders, hyderabad , kochi ,Oct 14 2026,2026-10-17,Delivered,750
+SR1129,Prime Retail,Kochi,Bombay,02/10/2026,09/10/2026,Late,1200
+SR1366,Metro Foods, kozhikode , hyderabad ,Oct 09 2026,,Delivered,450
+SR1144,Prime Retail,Hyderabad,Kozhikode,Oct 25 2026,2026-10-28,Delivered,1500
+SR1011,Metro Foods,HYDERABAD,Bengaluru,Oct 17 2026,Oct 20 2026,In Transit,950
+SR1071,Prime Retail,BANGALORE,KOZHIKODE,19/10/2026,Oct 21 2026,Delivered,450
+SR1367,QuickBuy, kozhikode ,Madras,2026-10-25,Oct 27 2026,Delivered,850
+SR1314,Daily Needs,Hyderabad,Madras,Oct 21 2026,24/10/2026,Delivered,850
+SR1400,City Electronics,Bombay, bangalore ,Oct 01 2026,03/10/2026,Delivered,1200
+SR1473,Daily Needs,Madras, mumbai ,12/10/2026,Oct 15 2026,In Transit,850
+SR1193,Metro Foods, mumbai ,Kochi,31/10/2026,04/11/2026,Late,1500
+SR1085,FreshMart,CHENNAI,Calicut,29/10/2026,Oct 31 2026,Delivered,1800
+SR1288,FreshMart,Kozhikode,Bengaluru,15/10/2026,2026-10-17,Cancelled,950
+SR1422,GreenBasket, mumbai ,Kozhikode,Oct 09 2026,Oct 11 2026,In Transit,950
+SR1397,Acme Ltd,Cochin, mumbai ,2026-10-29,02/11/2026,Late,
+SR1132,Metro Foods,Kozhikode,Bengaluru,Oct 23 2026,2026-10-28,Late,1200
+SR1286,FreshMart,Calicut, chennai ,26/10/2026,Oct 27 2026,Delivered,850
+SR1291,Acme Ltd,BANGALORE, chennai ,2026-10-14,Oct 16 2026,In Transit,1800
+SR1013,QuickBuy, chennai ,MUMBAI,Oct 25 2026,2026-10-28,Delivered,1800
+SR1149,John Traders, hyderabad ,Bengaluru,Oct 18 2026,21/10/2026,Delivered,1800
+SR1231,,Hyderabad,CHENNAI,31/10/2026,02/11/2026,Delivered,950
+SR1212,City Electronics,Kochi,BANGALORE,19/10/2026,2026-10-26,Late,1500
+SR1381,Acme Ltd, bangalore ,Chennai,Oct 16 2026,17/10/2026,Delivered,1500
+SR1437,John Traders, kochi ,HYDERABAD,03/10/2026,Oct 06 2026,Delivered,1500
+SR1319,Prime Retail,CHENNAI,Mumbai,Oct 28 2026,Oct 30 2026,Late,450
+SR1269,Prime Retail,KOZHIKODE,Bangalore,27/10/2026,2026-10-30,In Transit,600
+SR1200,FreshMart, mumbai ,BANGALORE,Oct 30 2026,2026-10-31,Cancelled,750
+SR1045,,Bangalore, hyderabad ,11/10/2026,13/10/2026,Delivered,950
+SR1320,Prime Retail, bangalore ,Hyderabad,2026-10-29,2026-11-03,Late,750
+SR1357,Daily Needs,Bombay,Kozhikode,26/10/2026,2026-10-28,Delivered,450
+SR1230,Acme Ltd,HYDERABAD, kochi ,08/10/2026,2026-10-10,Delivered,1200
+SR1330,Daily Needs,Cochin,KOZHIKODE,Oct 27 2026,2026-10-29,In Transit,1800
+SR1237,Daily Needs, kozhikode ,Bangalore,2026-10-15,2026-10-17,Delivered,600
+SR1251,, kozhikode ,CHENNAI,Oct 08 2026,2026-10-10,Delivered,750
+SR1391,South Market,Bangalore,Cochin,17/10/2026,Oct 19 2026,Late,1500
+SR1042,City Electronics, hyderabad , chennai ,28/10/2026,2026-10-31,In Transit,1500
+SR1423,South Market, hyderabad ,Chennai,Oct 27 2026,29/10/2026,Delivered,1200
+SR1151,Daily Needs,Bombay, kozhikode ,10/10/2026,13/10/2026,Delivered,1500
+SR1318,City Electronics, mumbai ,Madras,Oct 16 2026,17/10/2026,Delivered,750
+SR1370,Daily Needs,Madras,Kozhikode,Oct 04 2026,2026-10-05,Delivered,1800
+SR1364,John Traders,BANGALORE, mumbai ,27/10/2026,28/10/2026,Delivered,1200
+SR1427,John Traders,Chennai,KOCHI,26/10/2026,Oct 27 2026,Delivered,600
+SR1452,South Market,MUMBAI, kozhikode ,02/10/2026,04/10/2026,Late,750
+SR1280,QuickBuy,Cochin,Chennai,2026-10-02,05/10/2026,Delivered,1200
+SR1332,GreenBasket,HYDERABAD,Bengaluru,2026-10-21,2026-10-22,In Transit,850
+SR1343,Metro Foods,Bombay,HYDERABAD,02/10/2026,2026-10-03,In Transit,1800
+SR1321,Acme Ltd,Hyderabad,KOCHI,21/10/2026,2026-10-23,Delivered,600
+SR1416,South Market,Hyderabad, kozhikode ,11/10/2026,2026-10-12,In Transit,600
+SR1208,Prime Retail,HYDERABAD,Madras,2026-10-25,Oct 30 2026,Late,1500
+SR1121,South Market,Kochi,BANGALORE,Oct 22 2026,Oct 28 2026,Late,600
+SR1425,Prime Retail,Madras,KOZHIKODE,Oct 09 2026,Oct 11 2026,In Transit,1500
+SR1029,City Electronics,Chennai,KOZHIKODE,24/10/2026,2026-10-26,In Transit,850
+SR1199,QuickBuy, kozhikode ,Hyderabad,04/10/2026,2026-10-07,Delivered,1800
+SR1432,Prime Retail,Hyderabad,Kochi,2026-10-02,04/10/2026,Delivered,450
+SR1395,GreenBasket,Bengaluru,Cochin,Oct 05 2026,2026-10-06,In Transit,
+SR1187,South Market,Calicut,BANGALORE,23/10/2026,Oct 25 2026,Delivered,
+SR1225,GreenBasket,BANGALORE,Bombay,11/10/2026,Oct 14 2026,Delivered,600
+SR1421,Acme Ltd, kochi , chennai ,24/10/2026,2026-10-27,In Transit,
+SR1305,City Electronics,Madras, mumbai ,Oct 04 2026,2026-10-05,Delivered,450
+SR1346,Metro Foods,BANGALORE,Mumbai,31/10/2026,2026-11-02,Delivered,450
+SR1316,GreenBasket,KOZHIKODE,HYDERABAD,13/10/2026,,Delivered,1500
+SR1285,John Traders,Bengaluru,CHENNAI,Oct 10 2026,Oct 11 2026,Delivered,950
+SR1347,FreshMart, hyderabad ,KOZHIKODE,Oct 29 2026,01/11/2026,Delivered,950
+SR1118,FreshMart,Kozhikode, bangalore ,2026-10-01,2026-10-02,Delivered,1200
+SR1361,Metro Foods,MUMBAI,KOZHIKODE,Oct 20 2026,Oct 26 2026,Late,1200
+SR1394,City Electronics, kochi ,KOZHIKODE,12/10/2026,2026-10-14,Delivered,450
+SR1081,John Traders, chennai ,Cochin,Oct 11 2026,14/10/2026,Late,750
+SR1262,City Electronics,HYDERABAD,KOZHIKODE,Oct 28 2026,Oct 30 2026,Delivered,450
+SR1303,Daily Needs, kozhikode , mumbai ,2026-10-28,2026-10-31,Delivered,850
+SR1240,Acme Ltd,CHENNAI,Kozhikode,2026-10-29,2026-10-31,Late,1200
+SR1111,Metro Foods,MUMBAI,Hyderabad,28/10/2026,29/10/2026,Delivered,750
+SR1377,QuickBuy,MUMBAI, bangalore ,2026-10-01,05/10/2026,Late,950
+SR1005,GreenBasket,Madras,HYDERABAD,09/10/2026,11/10/2026,Delivered,750
+SR1444,City Electronics,BANGALORE,CHENNAI,Oct 05 2026,2026-10-11,Late,1500
+SR1159,Acme Ltd,Calicut,KOCHI,23/10/2026,26/10/2026,Delivered,600
+SR1325,Acme Ltd,HYDERABAD,CHENNAI,Oct 27 2026,31/10/2026,Late,450
+SR1417,Daily Needs,BANGALORE,Hyderabad,24/10/2026,26/10/2026,Late,950
+SR1468,FreshMart,Cochin,Mumbai,2026-10-06,07/10/2026,In Transit,600
+SR1334,QuickBuy, kochi ,Bengaluru,Oct 08 2026,2026-10-11,In Transit,750
+SR1403,Daily Needs,Bangalore,Hyderabad,30/10/2026,2026-10-31,Cancelled,750
+SR1289,Prime Retail,Cochin, chennai ,2026-10-04,Oct 05 2026,In Transit,450
+SR1076,South Market,Bombay,BANGALORE,Oct 06 2026,Oct 09 2026,Delivered,1500
+SR1284,Acme Ltd, hyderabad ,CHENNAI,Oct 22 2026,2026-10-23,Delivered,450
+SR1120,GreenBasket,Cochin,Bombay,Oct 15 2026,,Delivered,450
+SR1127,City Electronics, bangalore ,HYDERABAD,Oct 12 2026,15/10/2026,Delivered,1200
+SR1256,Daily Needs,KOCHI,Bengaluru,02/10/2026,Oct 04 2026,Delivered,600
+SR1020,City Electronics,Mumbai,HYDERABAD,2026-10-22,2026-10-25,Late,950
+SR1439,City Electronics,Kozhikode,Hyderabad,Oct 21 2026,Oct 24 2026,Late,750
+SR1172,GreenBasket,Calicut,Chennai,Oct 30 2026,Nov 01 2026,Delivered,600
+SR1285,John Traders,Bengaluru,CHENNAI,Oct 10 2026,Oct 11 2026,Delivered,950
+SR1078,City Electronics,Bombay,KOZHIKODE,15/10/2026,2026-10-16,In Transit,1500
+SR1348,QuickBuy,MUMBAI,Cochin,29/10/2026,2026-11-03,Late,600
+SR1398,City Electronics, mumbai ,KOZHIKODE,2026-10-22,2026-10-25,In Transit,1200
+SR1390,Acme Ltd,Kozhikode,KOCHI,2026-10-29,Oct 31 2026,In Transit,600
+SR1201,,BANGALORE, hyderabad ,13/10/2026,Oct 16 2026,Delivered,850
+SR1098,Prime Retail,Kozhikode,Chennai,2026-10-06,2026-10-09,In Transit,1500
+SR1489,FreshMart,Chennai, kozhikode ,2026-10-09,2026-10-10,Delivered,1800
+SR1407,Metro Foods,KOCHI, bangalore ,2026-10-24,27/10/2026,Late,600
+SR1497,GreenBasket,Calicut,BANGALORE,Oct 01 2026,03/10/2026,Delivered,600
+SR1233,Prime Retail, mumbai ,Chennai,Oct 31 2026,Nov 03 2026,Delivered,1500
+SR1018,City Electronics,Bangalore,Kochi,Oct 15 2026,2026-10-16,Delivered,1800
+SR1469,City Electronics,Calicut, chennai ,2026-10-22,Oct 26 2026,Late,850
+SR1026,Acme Ltd, chennai ,Hyderabad,2026-10-27,Oct 28 2026,Delivered,1200
+SR1369,City Electronics, bangalore ,CHENNAI,Oct 06 2026,,Delivered,1800
+SR1327,John Traders, hyderabad , bangalore ,Oct 15 2026,Oct 18 2026,Delivered,750
+SR1281,Prime Retail,Kozhikode, bangalore ,2026-10-04,2026-10-07,Delivered,950
+SR1345,City Electronics, kozhikode ,HYDERABAD,2026-10-13,Oct 17 2026,Late,600
+SR1472,, hyderabad ,CHENNAI,Oct 20 2026,22/10/2026,Delivered,600
+SR1401,Acme Ltd, hyderabad ,Calicut,2026-10-08,Oct 10 2026,Delivered,750
+SR1373,GreenBasket,Kochi,HYDERABAD,Oct 22 2026,Oct 24 2026,Cancelled,750
+SR1222,GreenBasket, kochi , hyderabad ,Oct 04 2026,2026-10-07,Delivered,600
+SR1471,John Traders,Madras,Bombay,Oct 29 2026,2026-11-01,Delivered,1800
+SR1284,Acme Ltd, hyderabad ,CHENNAI,Oct 22 2026,2026-10-23,Delivered,450
+SR1038,FreshMart,Cochin,Bangalore,2026-10-06,Oct 09 2026,In Transit,1800
+SR1216,Prime Retail, kozhikode ,Madras,12/10/2026,Oct 17 2026,Late,450
+SR1131,QuickBuy,Bangalore, chennai ,Oct 05 2026,07/10/2026,In Transit,750
+SR1125,Prime Retail,Calicut,CHENNAI,26/10/2026,28/10/2026,Delivered,1800
+SR1223,Prime Retail,Hyderabad, bangalore ,Oct 25 2026,2026-10-26,Delivered,450
+SR1486,Daily Needs,Bombay,Bengaluru,Oct 05 2026,06/10/2026,Cancelled,600
+SR1171,QuickBuy,BANGALORE,KOZHIKODE,2026-10-10,Oct 11 2026,In Transit,1800
+SR1122,Prime Retail,Kozhikode, chennai ,Oct 12 2026,Oct 14 2026,In Transit,850
+SR1090,Daily Needs,Madras,Bangalore,16/10/2026,Oct 18 2026,Delivered,600
+SR1451,Daily Needs,CHENNAI,Cochin,03/10/2026,06/10/2026,Cancelled,750
+SR1165,City Electronics,Calicut,HYDERABAD,2026-10-15,Oct 17 2026,In Transit,1500
+SR1206,Acme Ltd,KOZHIKODE,CHENNAI,16/10/2026,Oct 18 2026,Delivered,1800
+SR1203,Prime Retail,HYDERABAD,Cochin,20/10/2026,21/10/2026,Delivered,1200
+SR1194,John Traders,Mumbai, hyderabad ,01/10/2026,03/10/2026,Cancelled,850
+SR1300,,Bombay,KOZHIKODE,04/10/2026,05/10/2026,In Transit,600
+SR1235,City Electronics, chennai , mumbai ,2026-10-19,22/10/2026,Delivered,750
+SR1260,Acme Ltd,Hyderabad,Bombay,2026-10-29,01/11/2026,Delivered,750
+SR1197,City Electronics,Calicut, hyderabad ,Oct 04 2026,Oct 06 2026,Delivered,850
+SR1440,South Market, hyderabad ,KOCHI,Oct 07 2026,Oct 09 2026,Delivered,950
+SR1196,City Electronics,HYDERABAD, chennai ,2026-10-26,2026-10-29,Cancelled,600
+SR1371,Metro Foods, kochi ,KOZHIKODE,2026-10-15,2026-10-19,Late,600
+SR1128,City Electronics,KOZHIKODE,Mumbai,Oct 26 2026,Oct 28 2026,Late,750
+SR1372,Metro Foods,Cochin,Chennai,04/10/2026,07/10/2026,Cancelled,850
+SR1109,QuickBuy,CHENNAI,KOCHI,2026-10-23,2026-10-26,Delivered,750
+SR1442,Metro Foods,CHENNAI,Calicut,14/10/2026,19/10/2026,Late,1500
+SR1368,John Traders,Bombay, kochi ,27/10/2026,Oct 29 2026,Delivered,600
+SR1032,Prime Retail,KOCHI,Mumbai,17/10/2026,2026-10-20,Delivered,850
+SR1104,Prime Retail,CHENNAI, hyderabad ,Oct 28 2026,2026-10-30,Delivered,1500
+SR1217,GreenBasket, kochi ,Chennai,2026-10-05,Oct 12 2026,Late,450
+SR1153,Acme Ltd,MUMBAI,Hyderabad,08/10/2026,Oct 10 2026,Late,1500
+SR1052,Metro Foods, hyderabad ,Madras,Oct 17 2026,18/10/2026,In Transit,850
+SR1087,City Electronics,Kozhikode,Bangalore,Oct 31 2026,2026-11-02,Delivered,600
+SR1455,,Mumbai,HYDERABAD,25/10/2026,Oct 27 2026,Delivered,750
+SR1429,Daily Needs,Chennai,Bangalore,10/10/2026,13/10/2026,In Transit,600
+SR1494,Prime Retail,BANGALORE,KOCHI,2026-10-15,2026-10-16,Delivered,950
+SR1252,Prime Retail,Calicut,CHENNAI,Oct 24 2026,26/10/2026,Delivered,1800
+SR1229,FreshMart, bangalore ,MUMBAI,2026-10-01,02/10/2026,Delivered,850
+SR1190,John Traders,KOZHIKODE, kochi ,09/10/2026,10/10/2026,Delivered,750
+SR1474,QuickBuy,KOCHI, bangalore ,06/10/2026,2026-10-08,Late,1200
+SR1152,QuickBuy, mumbai ,Calicut,Oct 24 2026,Oct 25 2026,Delivered,950
+SR1178,Acme Ltd,Hyderabad,Madras,2026-10-27,30/10/2026,In Transit,450
+SR1324,Metro Foods,Cochin, mumbai ,04/10/2026,2026-10-07,Delivered,600
+SR1461,QuickBuy, bangalore ,CHENNAI,2026-10-30,Nov 01 2026,Delivered,950
+SR1037,South Market,CHENNAI, hyderabad ,Oct 14 2026,Oct 17 2026,In Transit,850
+SR1337,Daily Needs,Kochi,BANGALORE,Oct 31 2026,Nov 02 2026,In Transit,1200
+SR1344,South Market,HYDERABAD,Mumbai,23/10/2026,2026-10-24,Delivered,450
+SR1275,GreenBasket,Calicut,Bengaluru,Oct 22 2026,24/10/2026,Delivered,1200
+SR1169,South Market,Calicut,MUMBAI,20/10/2026,2026-10-22,In Transit,850
+SR1134,City Electronics, kochi ,Bombay,03/10/2026,05/10/2026,Delivered,600
+SR1113,Prime Retail,Kochi, bangalore ,08/10/2026,2026-10-09,Cancelled,600
+SR1102,,Hyderabad,BANGALORE,17/10/2026,Oct 23 2026,Late,600
+SR1027,Acme Ltd,Madras,BANGALORE,31/10/2026,Nov 01 2026,In Transit,450
+SR1250,Acme Ltd, mumbai ,HYDERABAD,2026-10-13,Oct 16 2026,In Transit,450
+SR1485,Acme Ltd,Hyderabad, kozhikode ,29/10/2026,Oct 31 2026,Delivered,1200
+SR1173,FreshMart,Bangalore,Bombay,24/10/2026,29/10/2026,Late,850
+SR1004,Daily Needs,Chennai,HYDERABAD,Oct 03 2026,2026-10-09,Late,850
+SR1046,Prime Retail,Bangalore,Madras,2026-10-25,2026-10-26,Cancelled,450
+SR1293,South Market,Mumbai, hyderabad ,Oct 08 2026,Oct 11 2026,Cancelled,1200
+SR1174,QuickBuy,BANGALORE, mumbai ,23/10/2026,24/10/2026,Delivered,1200
+SR1336,South Market,Chennai,MUMBAI,Oct 17 2026,2026-10-18,In Transit,1800
+SR1460,John Traders,Hyderabad,Kochi,2026-10-07,2026-10-12,Late,950
+SR1036,FreshMart,Calicut,Bombay,Oct 22 2026,25/10/2026,Late,850
+SR1499,FreshMart,BANGALORE,HYDERABAD,2026-10-24,Oct 26 2026,Cancelled,950
+SR1220,GreenBasket, chennai ,Bengaluru,05/10/2026,08/10/2026,In Transit,1500
+SR1438,South Market,KOCHI,Chennai,2026-10-19,22/10/2026,Late,1800
+SR1385,City Electronics,HYDERABAD, kozhikode ,22/10/2026,25/10/2026,Delivered,1800
+SR1116,City Electronics,Bangalore,Kozhikode,26/10/2026,Oct 29 2026,Late,1800
+SR1228,South Market,Bombay, chennai ,16/10/2026,Oct 18 2026,Delivered,450
+SR1374,,BANGALORE, kochi ,2026-10-29,2026-11-01,Delivered,850
+SR1234,Acme Ltd,BANGALORE,Kochi,Oct 03 2026,04/10/2026,Delivered,1500
+SR1146,South Market, kozhikode ,HYDERABAD,27/10/2026,Oct 29 2026,Delivered,600
+SR1198,Daily Needs,Bengaluru, kochi ,2026-10-01,2026-10-03,Delivered,1500
+SR1096,Acme Ltd,KOZHIKODE,Bombay,2026-10-10,Oct 13 2026,Delivered,850
+SR1480,GreenBasket,Hyderabad, kochi ,Oct 27 2026,2026-10-28,Delivered,1500
+SR1168,QuickBuy,Hyderabad,Madras,Oct 08 2026,2026-10-14,Late,850
+SR1043,City Electronics, hyderabad ,Mumbai,26/10/2026,31/10/2026,Late,850
+SR1021,Daily Needs,Bengaluru,CHENNAI,Oct 31 2026,2026-11-01,Delivered,600
+SR1492,Metro Foods, chennai ,Calicut,Oct 12 2026,Oct 13 2026,Delivered,750
+SR1443,,Kozhikode,HYDERABAD,2026-10-05,2026-10-08,Delivered,750
+SR1254,,BANGALORE,HYDERABAD,Oct 06 2026,Oct 10 2026,Late,1200
+SR1448,City Electronics, kozhikode ,Kochi,Oct 10 2026,Oct 13 2026,Delivered,950
+SR1267,Daily Needs, hyderabad ,Chennai,2026-10-06,2026-10-07,Delivered,450
+SR1057,Metro Foods,Kochi,Madras,Oct 27 2026,Oct 29 2026,Delivered,600
+SR1239,FreshMart, bangalore ,Chennai,2026-10-01,02/10/2026,Delivered,750
+SR1435,Prime Retail,KOZHIKODE,Hyderabad,16/10/2026,18/10/2026,Delivered,600
+SR1161,Prime Retail,Kochi,MUMBAI,2026-10-30,Nov 02 2026,Delivered,850
+SR1349,Prime Retail,HYDERABAD, mumbai ,2026-10-01,05/10/2026,Late,950
+SR1209,Prime Retail, chennai ,HYDERABAD,Oct 28 2026,Oct 29 2026,Cancelled,850
+SR1359,South Market,HYDERABAD,MUMBAI,06/10/2026,Oct 08 2026,Cancelled,1200
+SR1493,John Traders, bangalore ,Calicut,04/10/2026,06/10/2026,Delivered,750
+SR1426,Metro Foods, mumbai ,KOZHIKODE,23/10/2026,2026-10-25,Delivered,600
+SR1350,Prime Retail,Bengaluru,Bombay,09/10/2026,Oct 12 2026,Delivered,850
+SR1195,Metro Foods,MUMBAI,BANGALORE,23/10/2026,Oct 25 2026,Delivered,600
+SR1182,FreshMart,KOCHI,HYDERABAD,2026-10-13,15/10/2026,Late,750
+SR1093,FreshMart, mumbai , hyderabad ,2026-10-24,26/10/2026,In Transit,1800
+SR1055,John Traders, bangalore ,Calicut,2026-10-24,2026-10-27,Delivered,950
+SR1226,QuickBuy,HYDERABAD,Bombay,2026-10-02,2026-10-05,Delivered,750
+SR1323,Prime Retail,Cochin, bangalore ,01/10/2026,02/10/2026,Delivered,1500
+SR1188,Metro Foods,KOCHI,KOZHIKODE,2026-10-25,26/10/2026,Delivered,600
+SR1467,,Bengaluru,Madras,Oct 02 2026,2026-10-05,Late,1800
+SR1311,Daily Needs, hyderabad ,Cochin,03/10/2026,04/10/2026,Delivered,1200
+SR1110,Metro Foods, kochi ,Hyderabad,Oct 25 2026,Oct 28 2026,Delivered,450
+SR1308,QuickBuy,Bengaluru,Kochi,25/10/2026,30/10/2026,Late,850
+SR1003,Metro Foods, bangalore , kozhikode ,31/10/2026,2026-11-01,In Transit,600
+SR1276,Daily Needs,BANGALORE, kochi ,Oct 21 2026,23/10/2026,Delivered,850
+SR1088,South Market,Bengaluru,Chennai,2026-10-27,28/10/2026,In Transit,850
+SR1404,Prime Retail,Kochi,Hyderabad,2026-10-10,2026-10-13,Delivered,950
+SR1099,Prime Retail,Bangalore,Kochi,2026-10-10,2026-10-14,Late,450
+SR1396,FreshMart, kozhikode ,HYDERABAD,2026-10-16,Oct 17 2026,Delivered,850
+SR1271,Acme Ltd, bangalore ,KOCHI,20/10/2026,22/10/2026,In Transit,950
+SR1008,John Traders, bangalore ,Bombay,Oct 18 2026,21/10/2026,Delivered,1500
+SR1317,FreshMart, mumbai ,HYDERABAD,02/10/2026,Oct 06 2026,Late,600
+SR1051,South Market, mumbai , kochi ,11/10/2026,2026-10-13,Delivered,750
+SR1479,Metro Foods,Hyderabad,Bangalore,Oct 26 2026,Oct 29 2026,In Transit,750
+SR1292,John Traders, kochi ,Hyderabad,2026-10-04,06/10/2026,In Transit,450
+SR1259,South Market,BANGALORE,Bombay,Oct 02 2026,Oct 05 2026,In Transit,1500
+SR1124,Acme Ltd,Calicut, kochi ,17/10/2026,2026-10-20,Delivered,1800
+SR1257,FreshMart,Kochi,CHENNAI,Oct 10 2026,12/10/2026,In Transit,1800
+SR1083,,Cochin,KOZHIKODE,2026-10-22,Oct 28 2026,Late,1200
+SR1409,Daily Needs, hyderabad ,KOCHI,2026-10-24,26/10/2026,Delivered,450
+SR1375,City Electronics,Bengaluru,Madras,02/10/2026,2026-10-09,Late,750
+SR1488,Metro Foods,Kochi,Mumbai,2026-10-12,15/10/2026,In Transit,600
+SR1143,GreenBasket,Kozhikode,Bombay,Oct 10 2026,13/10/2026,Delivered,1800
+SR1453,GreenBasket,KOCHI, hyderabad ,2026-10-16,19/10/2026,Delivered,1500
+SR1047,GreenBasket,Kochi,Kozhikode,2026-10-25,28/10/2026,Delivered,600
+SR1363,Acme Ltd,Kochi,MUMBAI,Oct 25 2026,2026-10-26,Cancelled,950
+SR1180,Metro Foods,Madras,Bombay,2026-10-27,Oct 31 2026,Late,600
+SR1095,John Traders, hyderabad , chennai ,Oct 19 2026,2026-10-22,Cancelled,1200
+SR1103,South Market, kochi ,Bombay,13/10/2026,2026-10-18,Late,600
+SR1301,City Electronics,Hyderabad,KOCHI,Oct 30 2026,2026-10-31,Delivered,750
+SR1106,John Traders,MUMBAI, chennai ,06/10/2026,Oct 09 2026,Cancelled,1800
+SR1309,City Electronics,CHENNAI,HYDERABAD,2026-10-09,,Late,950
+SR1496,Acme Ltd,Bangalore, mumbai ,04/10/2026,06/10/2026,Delivered,850
+SR1412,John Traders,MUMBAI,Madras,2026-10-03,Oct 05 2026,Delivered,1200
+SR1006,South Market,Bombay, bangalore ,18/10/2026,Oct 23 2026,Late,1500
+SR1418,QuickBuy,Bengaluru,Chennai,Oct 23 2026,2026-10-25,In Transit,1500
+SR1034,Metro Foods, hyderabad ,BANGALORE,Oct 07 2026,,Delivered,750
+SR1023,QuickBuy,Calicut, chennai ,2026-10-01,Oct 04 2026,Delivered,600
+SR1130,GreenBasket, chennai , bangalore ,Oct 24 2026,2026-10-27,Delivered,1500
+SR1362,GreenBasket,Mumbai,Kozhikode,2026-10-31,04/11/2026,Late,850
+SR1241,City Electronics, kochi ,CHENNAI,2026-10-13,,Late,850
+SR1031,,Calicut, mumbai ,2026-10-13,19/10/2026,Late,450
+SR1304,John Traders,HYDERABAD,MUMBAI,Oct 23 2026,27/10/2026,Late,1200
+SR1462,QuickBuy,KOCHI,Hyderabad,2026-10-13,14/10/2026,In Transit,850
+SR1338,FreshMart,Kozhikode,Mumbai,2026-10-29,Oct 31 2026,Delivered,850
+SR1017,City Electronics, kochi ,Chennai,22/10/2026,Oct 26 2026,Late,450
+SR1056,John Traders, kozhikode ,CHENNAI,2026-10-02,2026-10-07,Late,1800
+SR1101,, chennai ,Bangalore,07/10/2026,08/10/2026,Delivered,750
+SR1022,South Market, chennai ,Bombay,03/10/2026,2026-10-06,Delivered,1200
+SR1221,South Market,Hyderabad,Bombay,Oct 10 2026,13/10/2026,In Transit,450
+SR1248,Acme Ltd,BANGALORE,Mumbai,2026-10-23,24/10/2026,In Transit,1200
+SR1010,Daily Needs,CHENNAI,Bengaluru,2026-10-22,24/10/2026,In Transit,1200
+SR1380,QuickBuy,HYDERABAD,Bangalore,2026-10-20,2026-10-22,Delivered,1200
+SR1058,GreenBasket,CHENNAI,MUMBAI,Oct 25 2026,28/10/2026,Delivered,850
+SR1218,FreshMart,Bengaluru, hyderabad ,03/10/2026,05/10/2026,Late,1200
+SR1041,John Traders, bangalore ,HYDERABAD,23/10/2026,24/10/2026,Delivered,600
+SR1067,Acme Ltd,Bangalore,Kochi,Oct 18 2026,20/10/2026,Delivered,1800
+SR1108,Metro Foods,Madras, bangalore ,20/10/2026,Oct 26 2026,Late,450
+SR1065,John Traders,KOZHIKODE,Hyderabad,Oct 23 2026,2026-10-26,Delivered,1500
+SR1158,John Traders,BANGALORE, hyderabad ,11/10/2026,2026-10-12,In Transit,950
+SR1117,Daily Needs,BANGALORE,Hyderabad,03/10/2026,2026-10-04,In Transit,1800
+SR1414,GreenBasket,Chennai,MUMBAI,25/10/2026,Oct 27 2026,Delivered,1800
+SR1073,John Traders, chennai ,HYDERABAD,Oct 26 2026,2026-10-28,Cancelled,1500
+SR1466,Acme Ltd,Madras,KOCHI,02/10/2026,2026-10-05,Delivered,450
+SR1066,City Electronics,HYDERABAD, chennai ,2026-10-22,2026-10-24,In Transit,1500
+SR1431,South Market,HYDERABAD, mumbai ,04/10/2026,2026-10-06,Delivered,1200
+SR1061,Metro Foods,Bombay,HYDERABAD,2026-10-22,Oct 23 2026,In Transit,1500
+SR1484,Acme Ltd, mumbai ,Madras,13/10/2026,15/10/2026,In Transit,450
+SR1156,Prime Retail, kozhikode ,Hyderabad,Oct 21 2026,23/10/2026,Delivered,750
+SR1364,John Traders,BANGALORE, mumbai ,27/10/2026,28/10/2026,Delivered,1200
+SR1089,Daily Needs, kozhikode ,Bangalore,04/10/2026,2026-10-07,Late,450
+SR1176,Daily Needs, hyderabad ,Bombay,24/10/2026,2026-10-25,Delivered,850
+SR1268,QuickBuy, hyderabad ,KOCHI,2026-10-21,24/10/2026,In Transit,450
+SR1306,Metro Foods,Bangalore,Madras,23/10/2026,24/10/2026,In Transit,450
+SR1227,Daily Needs,Hyderabad, kozhikode ,Oct 06 2026,2026-10-09,Delivered,950
+SR1072,,Kochi,CHENNAI,2026-10-05,08/10/2026,Delivered,1200
+SR1413,Prime Retail, hyderabad ,BANGALORE,06/10/2026,07/10/2026,In Transit,450
+SR1389,,Bangalore, chennai ,24/10/2026,Oct 26 2026,Delivered,750
+SR1160,Metro Foods,Bombay,Madras,Oct 21 2026,2026-10-23,In Transit,1200
+SR1179,,KOZHIKODE,Chennai,2026-10-20,2026-10-27,Late,1800
+SR1246,,Madras,KOCHI,Oct 31 2026,03/11/2026,Late,1800
+SR1459,City Electronics,KOCHI,Calicut,02/10/2026,2026-10-04,Delivered,750
+SR1068,John Traders,Calicut,MUMBAI,01/10/2026,2026-10-04,Late,600
+SR1060,Acme Ltd, kochi ,HYDERABAD,23/10/2026,Oct 26 2026,Late,850
+SR1434,QuickBuy,Madras,HYDERABAD,2026-10-10,2026-10-17,Late,1800
+SR1236,Prime Retail,Calicut,Hyderabad,Oct 09 2026,2026-10-10,Delivered,750
+SR1491,Prime Retail,Cochin, mumbai ,22/10/2026,Oct 29 2026,Late,1800
+SR1059,South Market, hyderabad ,Chennai,Oct 20 2026,2026-10-21,Cancelled,850
+SR1360,South Market,KOZHIKODE,Hyderabad,21/10/2026,Oct 22 2026,Cancelled,1200
+SR1283,GreenBasket,Mumbai,CHENNAI,Oct 19 2026,Oct 20 2026,Delivered,1200
+SR1365,Daily Needs, bangalore , mumbai ,Oct 20 2026,Oct 23 2026,Delivered,1500
+SR1273,Metro Foods,Bombay,Kozhikode,2026-10-28,2026-10-31,Delivered,950
+SR1270,GreenBasket,Mumbai,BANGALORE,Oct 22 2026,2026-10-25,Delivered,1500
+SR1354,South Market,CHENNAI, kochi ,2026-10-12,16/10/2026,Late,950
+SR1315,City Electronics,Mumbai,Chennai,2026-10-24,2026-10-29,Late,1200
+SR1427,John Traders,Chennai,KOCHI,26/10/2026,Oct 27 2026,Delivered,600
+SR1097,FreshMart, kozhikode ,Mumbai,Oct 08 2026,Oct 11 2026,In Transit,450
+SR1114,John Traders, bangalore ,Calicut,2026-10-27,01/11/2026,Late,1800
+SR1258,QuickBuy,Madras,Kochi,Oct 15 2026,2026-10-16,Delivered,950
+SR1080,GreenBasket,Mumbai, bangalore ,Oct 20 2026,,Delivered,750
+SR1112,,MUMBAI, kozhikode ,Oct 27 2026,Oct 30 2026,Delivered,600
+SR1053,Acme Ltd, chennai ,KOCHI,Oct 08 2026,Oct 09 2026,Delivered,950
+SR1446,FreshMart,HYDERABAD,Kochi,Oct 31 2026,2026-11-04,Late,1800
+SR1175,QuickBuy,Chennai,HYDERABAD,25/10/2026,26/10/2026,In Transit,
+SR1211,FreshMart,Bengaluru,Hyderabad,Oct 30 2026,2026-11-01,Delivered,750
+SR1249,City Electronics,Bombay,KOCHI,2026-10-21,Oct 24 2026,Delivered,1200
+SR1399,FreshMart,Kozhikode,Hyderabad,Oct 28 2026,31/10/2026,Late,850
+SR1191,GreenBasket,MUMBAI, kochi ,20/10/2026,2026-10-23,Late,750
+SR1145,QuickBuy, bangalore , mumbai ,2026-10-29,31/10/2026,Delivered,1200
+SR1266,South Market,Mumbai,Madras,Oct 07 2026,09/10/2026,Delivered,1800
+SR1071,Prime Retail,BANGALORE,KOZHIKODE,19/10/2026,Oct 21 2026,Delivered,450
+SR1007,Acme Ltd,KOZHIKODE, hyderabad ,2026-10-09,Oct 12 2026,Delivered,1200
+SR1074,QuickBuy,Hyderabad,CHENNAI,2026-10-20,Oct 23 2026,Delivered,950
+SR1181,Metro Foods, kochi ,Chennai,Oct 12 2026,2026-10-14,Cancelled,850
+SR1297,South Market,Hyderabad,Calicut,29/10/2026,30/10/2026,Delivered,1800
+SR1274,Prime Retail,MUMBAI,BANGALORE,24/10/2026,26/10/2026,Delivered,950
+SR1050,Metro Foods,Hyderabad, mumbai ,25/10/2026,2026-10-27,Delivered,950
+SR1476,Prime Retail,Kochi,Bengaluru,24/10/2026,2026-10-28,Late,600
+SR1487,City Electronics,Kozhikode,CHENNAI,Oct 03 2026,Oct 05 2026,Delivered,1800
+SR1358,FreshMart,KOCHI,Kozhikode,09/10/2026,2026-10-12,Delivered,950
+SR1420,John Traders,HYDERABAD,Bombay,16/10/2026,2026-10-19,Delivered,
+SR1139,QuickBuy, kochi ,Bangalore,11/10/2026,2026-10-16,Late,1200
+SR1155,, bangalore ,Hyderabad,29/10/2026,2026-10-30,In Transit,1500
+SR1410,John Traders,KOCHI,Kozhikode,20/10/2026,Oct 23 2026,In Transit,750
+SR1351,GreenBasket,BANGALORE,Mumbai,2026-10-12,Oct 13 2026,Delivered,600
+SR1162,FreshMart,CHENNAI,Mumbai,2026-10-29,01/11/2026,Delivered,750
+SR1166,City Electronics,HYDERABAD,BANGALORE,24/10/2026,25/10/2026,Cancelled,450
+SR1279,Acme Ltd,Madras,HYDERABAD,09/10/2026,2026-10-10,Delivered,750
+SR1086,South Market,Kochi, kozhikode ,2026-10-02,07/10/2026,Late,1800
+SR1386,, hyderabad ,BANGALORE,19/10/2026,,Delivered,950
+SR1478,Prime Retail,Kozhikode,BANGALORE,11/10/2026,2026-10-14,Delivered,450
+SR1049,Daily Needs,MUMBAI,Calicut,01/10/2026,03/10/2026,In Transit,600
+SR1482,FreshMart, kochi , hyderabad ,2026-10-08,2026-10-09,Delivered,
+SR1094,Prime Retail,Mumbai,Kozhikode,2026-10-12,2026-10-15,Cancelled,1800
+SR1469,City Electronics,Calicut, chennai ,2026-10-22,Oct 26 2026,Late,850
+SR1393,QuickBuy,KOCHI, mumbai ,2026-10-07,12/10/2026,Late,850
+SR1100,QuickBuy, kochi ,KOZHIKODE,07/10/2026,2026-10-08,In Transit,1200
+SR1264,City Electronics,Bengaluru,Mumbai,20/10/2026,Oct 23 2026,Late,1500
+SR1040,Metro Foods,Hyderabad, kochi ,Oct 21 2026,23/10/2026,Delivered,600
+SR1500,,BANGALORE,Kozhikode,2026-10-10,Oct 13 2026,Delivered,1200
+SR1272,South Market, kochi , mumbai ,Oct 04 2026,Oct 07 2026,Delivered,1200
+SR1150,Metro Foods, hyderabad ,Cochin,2026-10-07,09/10/2026,Cancelled,950
+SR1149,John Traders, hyderabad ,Bengaluru,Oct 18 2026,21/10/2026,Delivered,1800
+SR1025,Metro Foods,Madras, bangalore ,Oct 24 2026,29/10/2026,Late,850
+SR1447,FreshMart,MUMBAI, hyderabad ,Oct 26 2026,2026-10-30,Late,1200
+SR1498,Prime Retail, kochi , bangalore ,23/10/2026,2026-10-25,In Transit,1500
+SR1215,Acme Ltd, chennai ,Calicut,Oct 15 2026,2026-10-17,Delivered,850
+SR1185,Daily Needs,KOZHIKODE,Hyderabad,2026-10-25,2026-10-29,Late,1200
+SR1140,GreenBasket, bangalore , chennai ,2026-10-02,2026-10-04,Delivered,1500
+SR1028,Acme Ltd,Calicut,Bengaluru,Oct 22 2026,23/10/2026,Delivered,1200
+SR1456,Daily Needs,Chennai,HYDERABAD,2026-10-12,2026-10-14,Delivered,950
+SR1183,FreshMart,Hyderabad, chennai ,08/10/2026,2026-10-11,Delivered,1800
+SR1070,Daily Needs,KOZHIKODE, chennai ,10/10/2026,Oct 17 2026,Late,750
+SR1355,Prime Retail,Calicut,Hyderabad,Oct 09 2026,Oct 12 2026,Delivered,750
+SR1450,Acme Ltd, mumbai ,Madras,Oct 20 2026,23/10/2026,Delivered,750
+SR1237,Daily Needs, kozhikode ,Bangalore,2026-10-15,2026-10-17,Delivered,600
+SR1164,,Hyderabad,CHENNAI,Oct 02 2026,2026-10-05,Delivered,600
+SR1075,FreshMart, kochi , bangalore ,23/10/2026,2026-10-24,Delivered,450
+SR1030,QuickBuy,Calicut,KOCHI,2026-10-27,Oct 28 2026,In Transit,850
+SR1475,Acme Ltd,Chennai,Bangalore,30/10/2026,Oct 31 2026,Delivered,450
+SR1084,South Market,Bangalore,Madras,Oct 21 2026,,In Transit,950
+SR1470,,MUMBAI,Calicut,2026-10-18,2026-10-19,Delivered,
+SR1433,South Market,Mumbai,KOCHI,Oct 20 2026,Oct 22 2026,Delivered,850
+SR1009,Acme Ltd,CHENNAI,KOZHIKODE,Oct 21 2026,2026-10-24,Delivered,1500
+SR1295,GreenBasket,Kozhikode,KOCHI,02/10/2026,2026-10-05,Delivered,1500
+SR1376,Acme Ltd,Madras, kochi ,2026-10-21,24/10/2026,Delivered,600
+SR1263,South Market,CHENNAI,BANGALORE,19/10/2026,21/10/2026,In Transit,1200
+SR1192,QuickBuy,Calicut, hyderabad ,27/10/2026,30/10/2026,In Transit,750
+SR1483,Metro Foods,BANGALORE,Hyderabad,28/10/2026,2026-11-01,Late,1800
+SR1419,FreshMart, kochi , mumbai ,30/10/2026,Nov 02 2026,In Transit,950
+SR1356,City Electronics,BANGALORE,KOZHIKODE,2026-10-26,2026-10-27,Cancelled,1800
+SR1244,John Traders, chennai ,Cochin,20/10/2026,Oct 22 2026,Delivered,450
+SR1352,QuickBuy, kozhikode ,MUMBAI,11/10/2026,2026-10-14,Delivered,950
+SR1322,GreenBasket, chennai , kochi ,20/10/2026,21/10/2026,Delivered,1200
+SR1133,Prime Retail,Hyderabad, mumbai ,Oct 12 2026,2026-10-15,Delivered,750
+SR1445,John Traders, kochi ,Mumbai,01/10/2026,Oct 06 2026,Late,950
+SR1224,City Electronics,HYDERABAD,Calicut,2026-10-21,Oct 27 2026,Late,1500
+SR1290,FreshMart,KOZHIKODE,KOCHI,06/10/2026,08/10/2026,Delivered,1800
+SR1247,Acme Ltd,HYDERABAD,Cochin,2026-10-01,04/10/2026,Delivered,850
+SR1298,South Market, kochi , kozhikode ,2026-10-23,24/10/2026,Delivered,850
+SR1186,South Market,KOCHI,KOZHIKODE,01/10/2026,Oct 07 2026,Late,850
+SR1382,GreenBasket, mumbai ,KOCHI,Oct 30 2026,2026-10-31,In Transit,1800
+SR1307,Metro Foods,Mumbai, chennai ,Oct 30 2026,2026-11-01,Delivered,1200
+SR1035,City Electronics,HYDERABAD,MUMBAI,Oct 21 2026,2026-10-23,Delivered,1800
+SR1253,,Kochi, mumbai ,21/10/2026,2026-10-22,In Transit,750
+SR1142,QuickBuy, kozhikode ,MUMBAI,01/10/2026,Oct 03 2026,In Transit,750
+SR1392,Prime Retail,CHENNAI,HYDERABAD,2026-10-19,26/10/2026,Late,950
+SR1062,Acme Ltd, bangalore ,KOCHI,2026-10-20,26/10/2026,Late,1800
+SR1015,Daily Needs,Bangalore, mumbai ,2026-10-08,2026-10-11,Delivered,450
+SR1126,Metro Foods,Chennai, hyderabad ,03/10/2026,2026-10-04,Delivered,950
+SR1331,GreenBasket,BANGALORE, kozhikode ,Oct 06 2026,2026-10-09,Delivered,600
+SR1353,City Electronics,KOCHI, mumbai ,02/10/2026,,Delivered,750
+SR1465,QuickBuy,Mumbai, bangalore ,05/10/2026,06/10/2026,Delivered,850
+SR1252,Prime Retail,Calicut,CHENNAI,Oct 24 2026,26/10/2026,Delivered,1800
+SR1092,FreshMart, bangalore ,KOCHI,Oct 20 2026,Oct 26 2026,Late,1500
+SR1214,GreenBasket, kochi ,Kozhikode,Oct 11 2026,13/10/2026,In Transit,750
+SR1148,FreshMart,BANGALORE,CHENNAI,Oct 15 2026,2026-10-16,Delivered,1500
+SR1458,QuickBuy, mumbai , chennai ,Oct 21 2026,Oct 23 2026,Delivered,1500
+SR1341,GreenBasket,Kochi,Bengaluru,Oct 04 2026,Oct 06 2026,Delivered,1200
+SR1335,South Market,CHENNAI,Calicut,2026-10-13,Oct 14 2026,Delivered,450
+SR1064,Acme Ltd,Bangalore, hyderabad ,Oct 17 2026,21/10/2026,Late,1500
+SR1242,GreenBasket, mumbai ,KOZHIKODE,2026-10-16,2026-10-19,Delivered,1800
+SR1326,South Market,Mumbai,Calicut,05/10/2026,08/10/2026,Delivered,600
+SR1428,QuickBuy,Bombay,Hyderabad,Oct 10 2026,Oct 11 2026,In Transit,600
+SR1328,Metro Foods,Kozhikode,Bangalore,02/10/2026,08/10/2026,Late,1500
+SR1490,QuickBuy,Calicut,HYDERABAD,2026-10-15,2026-10-19,Late,850
+SR1154,John Traders,Kochi,HYDERABAD,Oct 16 2026,2026-10-21,Late,950
+SR1135,John Traders, bangalore ,Hyderabad,Oct 17 2026,2026-10-18,In Transit,600
+SR1079,Metro Foods,CHENNAI, hyderabad ,Oct 09 2026,Oct 12 2026,Delivered,450
+SR1002,South Market, chennai ,Mumbai,07/10/2026,Oct 14 2026,Late,850
+SR1406,,Cochin,Calicut,2026-10-06,2026-10-08,In Transit,
+SR1014,GreenBasket,MUMBAI,Kozhikode,13/10/2026,Oct 16 2026,Cancelled,
+SR1115,QuickBuy,BANGALORE,MUMBAI,08/10/2026,Oct 10 2026,Delivered,850
+SR1238,GreenBasket,KOZHIKODE, hyderabad ,2026-10-17,2026-10-19,Delivered,950
+SR1379,Acme Ltd,Mumbai,HYDERABAD,13/10/2026,Oct 17 2026,Late,850
+SR1287,QuickBuy,BANGALORE,Hyderabad,2026-10-11,Oct 12 2026,Delivered,600
+SR1387,Acme Ltd,Hyderabad, bangalore ,2026-10-29,31/10/2026,Delivered,850
+SR1312,Daily Needs, mumbai ,CHENNAI,2026-10-04,Oct 08 2026,Late,850
+SR1310,South Market,Madras,Bombay,Oct 27 2026,01/11/2026,Late,600
+SR1044,John Traders,KOCHI,Bengaluru,2026-10-20,Oct 22 2026,Delivered,450
